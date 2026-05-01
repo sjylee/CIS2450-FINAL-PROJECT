@@ -1,4 +1,4 @@
-# The Sonic Paradox Longevity Index
+# The Sonic Paradox Popularity Index
 ### CIS 2450: Big Data Analytics — Final Project
 
 ## Research Question

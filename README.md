@@ -57,3 +57,5 @@ pip install vaderSentiment scipy statsmodels dash plotly
 └── outputs/
 └── model_results.csv   # Model performance summary
 Team Members: Stella Lee, Yuetong Zheng
+
+
